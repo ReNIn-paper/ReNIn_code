@@ -41,7 +41,8 @@ conda activate ReNIn
   - The place where the trained model's weights are saved
   - The weights are saved in the format of .w file
   - The weights are used in get_denoised_output.ipynb
-## Training guideline
+## Training guideline with your own datasets
+- Due to property issues, the full image used in the training cannot be released.
 1. Data preparation 
    - This is the process of making patches to use for training.
    1. Make a folder with the f_number you want to train in the dataset folder and put the corresponding images in it.
