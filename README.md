@@ -1,6 +1,6 @@
 # ReNIn (<u>Re</u>laxed <u>N</u>oise2Noise and <u>In</u>put Dropout)
 ## environment
-- Ubuntu 18.04.4 LTS
+- Ubuntu 18.04 LTS
 - Python 3.9.13
 - Pytorch 1.12.1 (cuda 11.3)
 ### Conda environment setting
