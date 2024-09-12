@@ -84,7 +84,7 @@ conda activate ReNIn
           - `./SEM_semi_train.sh $GPU_NUM F01 F64 MSE $BATCH_SIZE --nepochs 10 --testidx 4 --apply-RPM --RPM-p 0.6 --RPM-type random`
         - Rest of baselines is in the **run_train.sh** file.
 3. The evaluation results 
-  - The results can be checked in the wandb page.
+    - The results can be checked in the wandb page.
 
 ## Acknowledgment
 - The code is based on FBI-denoiser, which is from [here](https://github.com/csm9493/FBI-Denoiser)
