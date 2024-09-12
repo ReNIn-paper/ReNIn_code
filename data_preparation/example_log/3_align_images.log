@@ -1,0 +1,18 @@
+../dataset_1536x3072
+dict_keys(['../dataset_1536x3072/F01_1/F01_01.png', '../dataset_1536x3072/F01_1/F01_02.png', 'search_range'])
+==== align image =====
+../dataset_1536x3072/F01_1/F01_01.png
+F01_01.png save path : ../dataset_1536x3072_aligned/F01_1/F01_01.png
+(1454, 2990)
+F01_01.png 19 20 (1454, 2990)
+../dataset_1536x3072/F01_1/F01_02.png
+F01_02.png save path : ../dataset_1536x3072_aligned/F01_1/F01_02.png
+(1454, 2990)
+F01_02.png -8 0 (1454, 2990)
+=== start clean image ===
+../dataset_1536x3072/F64_2/F64_01.png
+F64_01.png (1454, 2990)
+../dataset_1536x3072/F64_2/F64_02.png
+F64_02.png (1454, 2990)
+===========================
+complete align

@@ -1,0 +1,25 @@
+../dataset_1536x3072_aligned (1536, 3072)
+F64_2
+F01_1
+image_len : 2
+num_crop : 21600
+expected training len : 21600
+core to 2 & num_crop 200, since it is test mode
+====== ../dataset_1536x3072_aligned ======
+noisy f num ['F01']
+noisy_f_num_with_idx ['F01_1']
+clean_f_num F64
+clean_f_num_with_idx F64_2
+clean img :  2 clean image (variations :  1 )
+test_idx 1
+['train', 'test']
+../dataset_1536x3072_aligned/F64_2/F64_01.png === train 2
+../dataset_1536x3072_aligned/F64_2/F64_02.png === test 2
+test log :  ../dataset_1536x3072_aligned/F64_2/F64_01.png
+test log :  ../dataset_1536x3072_aligned/F01_1/F01_01.png
+test log :  ../dataset_1536x3072_aligned/F64_2/F64_02.png
+test log :  ../dataset_1536x3072_aligned/F01_1/F01_02.png
+start cropping
+write F01_1 in train_testidx_2.hdf5
+write F64_2 in train_testidx_2.hdf5
+All Complete

@@ -1,0 +1,18 @@
+
+# python related 
+*.pyc
+*.hdf5
+dataset
+dataset_1536x3072
+dataset_1536x3072_aligned
+run_train_test.sh
+__pycache__
+*.w
+get_denoised_result/denoised_output/*
+*.csv
+F01*.png
+F64*.png
+wandb/*
+events.out.tfevents.*
+*.npy
+get_denoised_result

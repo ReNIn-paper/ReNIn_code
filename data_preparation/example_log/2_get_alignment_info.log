@@ -1,0 +1,11 @@
+../dataset_1536x3072
+search_range :  40
+==== make align information =====
+../dataset_1536x3072/F01_1/F01_01.png ../dataset_1536x3072/F64_2/F64_01.png
+(1536, 3072) (1536, 3072)
+19 20
+../dataset_1536x3072/F01_1/F01_02.png ../dataset_1536x3072/F64_2/F64_02.png
+(1536, 3072) (1536, 3072)
+-8 0
+===========================
+write to ./shift_info.txt complete

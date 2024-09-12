@@ -1,0 +1,11 @@
+{
+	"../dataset_1536x3072/F01_1/F01_01.png": {
+		"v_shift": 19,
+		"h_shift": 20
+	},
+	"../dataset_1536x3072/F01_1/F01_02.png": {
+		"v_shift": -8,
+		"h_shift": 0
+	},
+	"search_range": 40
+}

@@ -1,0 +1,10 @@
+==== load original image =====
+==== crop top&bottom of original image =====
+F01_1.png
+../dataset_1536x3072/F01_1/F01_01.png is saved
+F01_2.png
+../dataset_1536x3072/F01_1/F01_02.png is saved
+F64_1.png
+../dataset_1536x3072/F64_2/F64_01.png is saved
+F64_2.png
+../dataset_1536x3072/F64_2/F64_02.png is saved
