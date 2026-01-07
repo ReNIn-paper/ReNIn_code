@@ -1,4 +1,5 @@
 # ReNIn (<u>Re</u>laxed <u>N</u>oise2Noise and <u>In</u>put Dropout)
+Official code repository of Relaxed Noise2Noise ([Efficient and Robust SEM Image Denoising for Wafer Defect Inspection](https://academic.oup.com/mam/article/31/5/ozaf084/8300402). Microscopy and Microanalysis 20205)
 ## environment
 - Ubuntu 18.04 LTS
 - Python 3.9.13
